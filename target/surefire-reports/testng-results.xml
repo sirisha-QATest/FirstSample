@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61954" started-at="2020-10-23T19:55:05Z" finished-at="2020-10-23T19:56:07Z">
+    <groups>
+      <group name="qaframe">
+        <method signature="framesTest.frameExmaple()[pri:0, instance:siriSeconMaven.framesTest@3fb6a447]" name="frameExmaple" class="siriSeconMaven.framesTest"/>
+      </group> <!-- qaframe -->
+    </groups>
+    <test name="Test" duration-ms="61954" started-at="2020-10-23T19:55:05Z" finished-at="2020-10-23T19:56:07Z">
+      <class name="siriSeconMaven.childwondowTest">
+        <test-method status="PASS" signature="chwindow()[pri:0, instance:siriSeconMaven.childwondowTest@668bc3d5]" name="chwindow" duration-ms="8852" started-at="2020-10-23T19:55:05Z" finished-at="2020-10-23T19:55:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chwindow -->
+        <test-method status="PASS" signature="stu1()[pri:0, instance:siriSeconMaven.childwondowTest@668bc3d5]" name="stu1" duration-ms="10242" started-at="2020-10-23T19:55:14Z" finished-at="2020-10-23T19:55:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stu1 -->
+      </class> <!-- siriSeconMaven.childwondowTest -->
+      <class name="siriSeconMaven.WidgetsTestngTest">
+        <test-method status="PASS" signature="widgetsExmaple()[pri:0, instance:siriSeconMaven.WidgetsTestngTest@3cda1055]" name="widgetsExmaple" duration-ms="10824" started-at="2020-10-23T19:55:24Z" finished-at="2020-10-23T19:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- widgetsExmaple -->
+      </class> <!-- siriSeconMaven.WidgetsTestngTest -->
+      <class name="siriSeconMaven.dataProviderExampleTest">
+        <test-method status="PASS" signature="dpExp(java.lang.String, java.lang.String)[pri:0, instance:siriSeconMaven.dataProviderExampleTest@7a5d012c]" name="dpExp" duration-ms="0" started-at="2020-10-23T19:55:35Z" data-provider="getdata" finished-at="2020-10-23T19:55:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[first User]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[first Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dpExp -->
+        <test-method status="PASS" signature="dpExp(java.lang.String, java.lang.String)[pri:0, instance:siriSeconMaven.dataProviderExampleTest@7a5d012c]" name="dpExp" duration-ms="0" started-at="2020-10-23T19:55:35Z" data-provider="getdata" finished-at="2020-10-23T19:55:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondsetusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secondpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dpExp -->
+        <test-method status="PASS" signature="dpExp(java.lang.String, java.lang.String)[pri:0, instance:siriSeconMaven.dataProviderExampleTest@7a5d012c]" name="dpExp" duration-ms="0" started-at="2020-10-23T19:55:35Z" data-provider="getdata" finished-at="2020-10-23T19:55:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirdsetusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[thirdpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dpExp -->
+      </class> <!-- siriSeconMaven.dataProviderExampleTest -->
+      <class name="siriSeconMaven.SliderTest">
+        <test-method status="PASS" signature="MouseHover2()[pri:0, instance:siriSeconMaven.SliderTest@79b4d0f]" name="MouseHover2" duration-ms="6868" started-at="2020-10-23T19:55:53Z" finished-at="2020-10-23T19:56:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MouseHover2 -->
+        <test-method status="PASS" signature="sliderExample()[pri:0, instance:siriSeconMaven.SliderTest@79b4d0f]" name="sliderExample" duration-ms="6886" started-at="2020-10-23T19:56:00Z" finished-at="2020-10-23T19:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sliderExample -->
+      </class> <!-- siriSeconMaven.SliderTest -->
+      <class name="siriSeconMaven.framesTest">
+        <test-method status="PASS" signature="frameExmaple()[pri:0, instance:siriSeconMaven.framesTest@3fb6a447]" name="frameExmaple" duration-ms="5690" started-at="2020-10-23T19:55:35Z" finished-at="2020-10-23T19:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frameExmaple -->
+        <test-method status="PASS" signature="modalDialogs()[pri:0, instance:siriSeconMaven.framesTest@3fb6a447]" name="modalDialogs" duration-ms="6486" started-at="2020-10-23T19:55:41Z" finished-at="2020-10-23T19:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modalDialogs -->
+        <test-method status="PASS" signature="nestedframeExmaple()[pri:0, instance:siriSeconMaven.framesTest@3fb6a447]" name="nestedframeExmaple" duration-ms="6057" started-at="2020-10-23T19:55:47Z" finished-at="2020-10-23T19:55:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nestedframeExmaple -->
+      </class> <!-- siriSeconMaven.framesTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
